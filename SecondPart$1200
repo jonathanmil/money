@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {margin: 0;}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #4CAF50;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+a.hover
+</style>
+</head>
+<body>
+
+<ul class="topnav">
+  <li><a href="https://jonathanmil.github.io/money/">Essentials for 1200$</a></li>
+  <li><a href=""><font color="grey">Other expenses for 1200$</font></a></li>
+  <li><a href="https://jonathanmil.github.io/money/AfterCollegeBudget">After college Budget(second part you gave us.)</a></li>
+
+</ul>
+
+<style>
+  body {
+  background-color:lightblue;
+  font-size: 150%;
+}
+img {
+    max-width: 50%;
+    stroke: 10;
+}
+</style>
+<head>
+<h1>
+	<center>
+		Investing
+	</center>
+</h1>
+	
+			</center>
+<body>
+  		<p>
+  			<br>
+        The first thing that I will do is take $500 and invest it into the stock market. I will spend around a week researching companies and at the end of it I will decide on a company and invest. With this investment I will be able to hopefully have more money in the future.<br><br> 
+        I will also be placing $200 into a saving account. I will keep this money in the bank account until I have a rainy day and because it will be in a savings account I will accumulate a very minimal interest. Making me a small amount of money in the long run.
+  			
+  		</p>
+<h1>
+	<center>
+		Fun
+	</center>
+</h1>
+<br><br>
+<p>Because the Corona virus is a very stressful time period I will be using the final <strong>$150.33</strong> into my debit card for me to spend on video games or any other things that I enjoy.<img src="https://i.ytimg.com/vi/YrtCnL62pB8/maxresdefault.jpg">
+Gta5 is one of my favorite games and so I have decided that of those 1200$ at least 20$ will go towards GTA5. If they money is not used by the end of the month I will end up placing it into the savings account for when I may end up really needing it.
+</p> 
+     </body> 
+      </head>
+ 	   </html>
